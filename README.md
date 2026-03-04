@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ton (Suppakorn Suwannapop)
 
+🎓 4th-year Computer Engineering student at Chiang Mai University (CMU)  
+💻 Interested in Backend Development, DevOps, and Cybersecurity 
 
-Here are some ideas to get you started:
-
-- 📚 I’m currently study at Chiang Mai University ...
-- 🚀 I’m studying in Computer Engineering faculty 
+- 📚 Currently studying Computer Engineering at CMU
+- 🔧 Working with: TypeScript, Next.js, FastAPI, PostgreSQL, Docker
